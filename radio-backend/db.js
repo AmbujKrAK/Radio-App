@@ -14,11 +14,4 @@ connection.connect((err) => {
   console.log('Connected to MySQL database!');
 });
 
-connection.query(`SELECT * FROM stations`,(err, result, fields)=>{
-  if(err){
-    return console.log(err);
-  }
-  return console.log(result);
-})
-
 module.exports = connection;
