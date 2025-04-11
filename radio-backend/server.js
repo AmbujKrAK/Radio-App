@@ -4,6 +4,9 @@ const app = express();
 const stationsRoute = require('./routes/stations');
 require('dotenv').config();
 
+// to print items on web browser
+app.get("/", (req,res) => res.send("Hello World"));
+
 app.use(express.json());
 
 app.use('/api/stations', stationsRoute);
