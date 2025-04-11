@@ -1,0 +1,175 @@
+{
+    "name": "Focus FM Regional",
+    "stream_url": "http://89.40.72.71:8000/stream/1/",
+    "location": "us",
+    "langauge": "Spanish",
+    "type": "music"
+},
+{
+    "name": "Vivid Bharti",
+    "stream_url": "	https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "location": "IN",
+    "langauge": "hindi",
+    "type": "music"
+},
+{
+    "name": "RADIO BOLLYWOOD 90s",
+    "stream_url": "https://stream.zeno.fm/rm4i9pdex3cuv",
+    "location": "IN",
+    "langauge": "hindi",
+    "type": "music"
+},
+{
+    "name": "Radio Mirchi Hindi",
+    "stream_url": "https://eu8.fastcast4u.com/proxy/clyedupq/stream",
+    "location": "IN",
+    "langauge": "hindi",
+    "type": "music"
+},
+{
+    "name": "BBC Radio 4",
+    "stream_url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8",
+    "location": "uk",
+    "langauge": "eng",
+    "type": "news"
+},
+{
+    "name": "CNN",
+    "stream_url": "https://tunein.cdnstream1.com/2868_96.mp3",
+    "location": "us",
+    "langauge": "eng",
+    "type": "news"
+},
+{
+    "name": "CNN",
+    "stream_url": "https://tunein.cdnstream1.com/2868_96.mp3",
+    "location": "us",
+    "langauge": "eng",
+    "type": "news"
+},
+{
+    "name": "Fox News Radio",
+    "stream_url": "https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc?source=fnr.web",
+    "location": "us",
+    "langauge": "eng",
+    "type": "news"
+},
+{
+    "name": "Radio Aashiqanaa",
+    "stream_url": "https://sonic.onlineaudience.co.uk/8114/stream?listening-from-radio-garden=1657427657",
+    "location": "IN",
+    "langauge": "hindi",
+    "type": "music"
+},
+{
+    "name": "Hindi Gold Radio",
+    "stream_url": "https://azuracast.vibesounds.in:8010/radio.mp3",
+    "location": "IN",
+    "langauge": "hindi",
+    "type": "music"
+},
+{
+    "name": "CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie",
+    "stream_url": "https://radiopanther.radiolebowski.com/play",
+    "location": "us",
+    "langauge": "eng",
+    "type": "music"
+},
+{
+    "name": "Classic FM UK",
+    "stream_url": "http://ice-the.musicradio.com/ClassicFMMP3",
+    "location": "uk",
+    "langauge": "eng",
+    "type": "music"
+},
+{
+    "name": "Deep House Lounge",
+    "stream_url": "http://198.15.94.34:8006/stream",
+    "location": "us",
+    "langauge": "eng",
+    "type": "music"
+},
+{
+    "name": "Classic FM UK",
+    "stream_url": "http://ice-the.musicradio.com/ClassicFMMP3",
+    "location": "uk",
+    "langauge": "eng",
+    "type": "music"
+},
+{
+    "name": "Classic Vinyl HD Opus",
+    "stream_url": "https://icecast.walmradio.com:8443/classic_opus",
+    "location": "us",
+    "langauge": "eng",
+    "type": "music"
+},
+{
+    "name": "Ambient Sleeping Pill",
+    "stream_url": "http://radio.stereoscenic.com/asp-h",
+    "location": "us",
+    "langauge": "eng",
+    "type": "music"
+},
+{
+    "name": "AIR Fm Gold Delhi",
+    "stream_url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8",
+    "location": "IN",
+    "langauge": "hindi",
+    "type": "music"
+},
+{
+    "name": "MSNBC",
+    "stream_url": "https://tunein.cdnstream1.com/3511_96.mp3",
+    "location": "us",
+    "langauge": "eng",
+    "type": "news"
+},
+{
+    "name": "Times Radio UK",
+    "stream_url": "http://timesradio.wireless.radio/stream",
+    "location": "uk",
+    "langauge": "eng",
+    "type": "news"
+},
+{
+    "name": "SomaFM Groove Salad (128k MP3)",
+    "stream_url": "https://somafm.com/groovesalad.pls",
+    "location": "us",
+    "langauge": "eng",
+    "type": "music"
+},
+{
+    "name": "Madhur Sangeet Radio",
+    "stream_url": "https://stream.zeno.fm/yv2k0dp18vzuv",
+    "location": "IN",
+    "langauge": "hindi",
+    "type": "music"
+},
+{
+    "name": "Mirchi Top 20",
+    "stream_url": "https://2.mystreaming.net/uber/bollywoodnow/icecast.audio",
+    "location": "IN",
+    "langauge": "hindi",
+    "type": "music"
+},
+{
+    "name": "Your Classical - Relax",
+    "stream_url": "http://relax.stream.publicradio.org/relax.mp3",
+    "location": "us",
+    "langauge": "eng",
+    "type": "music"
+},
+{
+    "name": "Chilltrax",
+    "stream_url": "http://server1.chilltrax.com:9000/",
+    "location": "us",
+    "langauge": "eng",
+    "type": "music"
+},
+{
+    "name": "",
+    "stream_url": "",
+    "location": "uk",
+    "langauge": "eng",
+    "type": "news"
+},
