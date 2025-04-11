@@ -167,9 +167,44 @@
     "type": "music"
 },
 {
-    "name": "",
-    "stream_url": "",
-    "location": "uk",
+    "name": "Red FM 93.5",
+    "stream_url": "https://stream-174.zeno.fm/q97eczydqrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxOTdlY3p5ZHFyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InRhOHAxeTRDVDdHenYtN2NoeFQxRmciLCJpYXQiOjE3NDIwNDA3NDEsImV4cCI6MTc0MjA0MDgwMX0.MkjhfjpDcWKnjIHhgkq3SGxg9gH8U901CrsfPZ42PGM",
+    "location": "IN",
+    "langauge": "hindi",
+    "type": "music"
+},
+{
+    "name": "Radio Hungama Bollywood Dil Se",
+    "stream_url": "https://stream.zeno.fm/143d7gty24zuv",
+    "location": "IN",
+    "langauge": "hindi",
+    "type": "music"
+},
+{
+    "name": "90s90s HipHop & Rap",
+    "stream_url": "http://streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de/",
+    "location": "germany",
     "langauge": "eng",
-    "type": "news"
+    "type": "music"
+},
+{
+    "name": "101.ru - Deep House",
+    "stream_url": "https://pub0202.101.ru:8000/stream/trust/mp3/128/173",
+    "location": "russia",
+    "langauge": "eng",
+    "type": "music"
+},
+{
+    "name": "181.FM - Old School HipHop/RnB",
+    "stream_url": "http://listen.181fm.com/181-oldschool_128k.mp3",
+    "location": "us",
+    "langauge": "eng",
+    "type": "music"
+},
+{
+    "name": "1.FM - Chillout Lounge Radio",
+    "stream_url": "http://strm112.1.fm/chilloutlounge_mobile_mp3",
+    "location": "Switzerland",
+    "langauge": "eng",
+    "type": "music"
 },
